@@ -253,7 +253,7 @@ void listDump(const List* lst, bool graph_dump){
         printf_log("\n");
     }
     if (graph_dump && lst->capacity != 0){
-        FILE* graph_file = fopen("graph.txt", "w");
+        FILE* graph_file = fopen("graph.tmp", "w");
         fprintf(graph_file, "digraph G{\n");
         fprintf(graph_file, " rankdir=LR;\n"
                             "node[shape=rectangle, style=filled, fillcolor=lightgrey]");
@@ -285,7 +285,7 @@ void listDump(const List* lst, bool graph_dump){
 
         fprintf(graph_file, "}");
         fclose(graph_file);
-        system("dot -Tpng graph.txt -ograph.png");
+        system("dot -Tpng graph.tmp -ograph.png");
     }
 }
 
