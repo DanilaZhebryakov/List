@@ -1,0 +1,143 @@
+------------------------------------
+[22:59:44 27.09]Program started
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+0 
+List dump
+    List at 000000000023FDC0
+    Head: 2 Tail 1 Capacity 10 Size 2
+    Free mem ptr: Stack: 0 Unused end: 3    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1  404  404  404  404  404  404  404  404
+P |    2    0    0    0    0    0    0    0    0    0
+N |    0    1    0    0    0    0    0    0    0    0
+list elements in order:
+1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 3 Tail 1 Capacity 10 Size 3
+    Free mem ptr: Stack: 0 Unused end: 4    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2  404  404  404  404  404  404  404
+P |    2    3    0    0    0    0    0    0    0    0
+N |    0    1    2    0    0    0    0    0    0    0
+list elements in order:
+2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 4 Tail 1 Capacity 10 Size 4
+    Free mem ptr: Stack: 0 Unused end: 5    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2    3  404  404  404  404  404  404
+P |    2    3    4    0    0    0    0    0    0    0
+N |    0    1    2    3    0    0    0    0    0    0
+list elements in order:
+3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 5 Tail 1 Capacity 10 Size 5
+    Free mem ptr: Stack: 0 Unused end: 6    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2    3    4  404  404  404  404  404
+P |    2    3    4    5    0    0    0    0    0    0
+N |    0    1    2    3    4    0    0    0    0    0
+list elements in order:
+4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 6 Tail 1 Capacity 10 Size 6
+    Free mem ptr: Stack: 0 Unused end: 7    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2    3    4    5  404  404  404  404
+P |    2    3    4    5    6    0    0    0    0    0
+N |    0    1    2    3    4    5    0    0    0    0
+list elements in order:
+5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 7 Tail 1 Capacity 10 Size 7
+    Free mem ptr: Stack: 0 Unused end: 8    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2    3    4    5    6  404  404  404
+P |    2    3    4    5    6    7    0    0    0    0
+N |    0    1    2    3    4    5    6    0    0    0
+list elements in order:
+6 5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 8 Tail 1 Capacity 10 Size 8
+    Free mem ptr: Stack: 0 Unused end: 9    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2    3    4    5    6    7  404  404
+P |    2    3    4    5    6    7    8    0    0    0
+N |    0    1    2    3    4    5    6    7    0    0
+list elements in order:
+7 6 5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 9 Tail 1 Capacity 10 Size 9
+    Free mem ptr: Stack: 0 Unused end: 10    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2    3    4    5    6    7    8  404
+P |    2    3    4    5    6    7    8    9    0    0
+N |    0    1    2    3    4    5    6    7    8    0
+list elements in order:
+8 7 6 5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 10 Tail 1 Capacity 10 Size 10
+    Free mem ptr: Stack: 0 Unused end: 11    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1    2    3    4    5    6    7    8    9
+P |    2    3    4    5    6    7    8    9   10    0
+N |    0    1    2    3    4    5    6    7    8    9
+list elements in order:
+9 8 7 6 5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 11 Tail 1 Capacity 20 Size 11
+    Free mem ptr: Stack: 0 Unused end: 12    List ok
+I |    1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20
+D |    0    1    2    3    4    5    6    7    8    9   10  404  404  404  404  404  404  404  404  404
+P |    2    3    4    5    6    7    8    9   10   11    0    0    0    0    0    0    0    0    0    0
+N |    0    1    2    3    4    5    6    7    8    9   10    0    0    0    0    0    0    0    0    0
+list elements in order:
+10 9 8 7 6 5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 12 Tail 1 Capacity 20 Size 12
+    Free mem ptr: Stack: 0 Unused end: 13    List ok
+I |    1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20
+D |    0    1    2    3    4    5    6    7    8    9   10   11  404  404  404  404  404  404  404  404
+P |    2    3    4    5    6    7    8    9   10   11   12    0    0    0    0    0    0    0    0    0
+N |    0    1    2    3    4    5    6    7    8    9   10   11    0    0    0    0    0    0    0    0
+list elements in order:
+11 10 9 8 7 6 5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 13 Tail 1 Capacity 20 Size 13
+    Free mem ptr: Stack: 0 Unused end: 14    List ok
+I |    1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20
+D |    0    1    2    3    4    5    6    7    8    9   10   11   12  404  404  404  404  404  404  404
+P |    2    3    4    5    6    7    8    9   10   11   12   13    0    0    0    0    0    0    0    0
+N |    0    1    2    3    4    5    6    7    8    9   10   11   12    0    0    0    0    0    0    0
+list elements in order:
+12 11 10 9 8 7 6 5 4 3 2 1 0 
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 13 Capacity 13 Size 13
+    Free mem ptr: Stack: 0 Unused end: 14    List ok
+I |    1    2    3    4    5    6    7    8    9   10   11   12   13
+D |   12   11   10    9    8    7    6    5    4    3    2    1    0
+P |    0    1    2    3    4    5    6    7    8    9   10   11   12
+N |    2    3    4    5    6    7    8    9   10   11   12   13    0
+list elements in order:
+12 11 10 9 8 7 6 5 4 3 2 1 0 
+Program exited

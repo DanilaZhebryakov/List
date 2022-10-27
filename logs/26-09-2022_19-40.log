@@ -1,0 +1,339 @@
+------------------------------------
+[19:40:23 26.09]Program started
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:359 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:430 
+Func:varError_t listSerialize(List*, size_t)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+[19:40:23][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:254 
+Func:varError_t listDtor(List*)
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    ERRORS:
+     Right data canary bad (DDEADBEEF-PDEADBEEF-NDEADBEEF | FACEFEED)
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+Program exited

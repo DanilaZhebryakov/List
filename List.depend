@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1664301488 source:c:\users\danila\desktop\list\lib\console_utils_win.cpp
+	<stdio.h>
+	<locale.h>
+	<assert.h>
+	<wchar.h>
+	<string.h>
+	<windows.h>
+	"Console_utils.h"
+
+1665256335 c:\users\danila\desktop\list\lib\console_utils.h
+
+1665162955 source:c:\users\danila\desktop\list\lib\file_read.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<errno.h>
+	<string.h>
+	"file_read.h"
+	"asserts.h"
+
+1665162715 c:\users\danila\desktop\list\lib\file_read.h
+	"String.h"
+
+1662745563 c:\users\danila\desktop\list\lib\string.h
+
+1664616958 c:\users\danila\desktop\list\lib\asserts.h
+
+1666640039 source:c:\users\danila\desktop\proc\lib\system_utils_win.cpp
+	<windows.h>
+
+1662814456 source:c:\users\danila\desktop\list\lib\parsearg.cpp
+	<string.h>
+	"parseArg.h"
+
+1662813077 c:\users\danila\desktop\list\lib\parsearg.h
+
+1666898608 source:c:\users\danila\desktop\list\lib\string.cpp
+	<stdio.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	"String.h"
+	"asserts.h"
+
+1666435035 source:c:\users\danila\desktop\list\lib\time_utils.cpp
+	<stdio.h>
+	<time.h>
+
+1666640551 source:c:\users\danila\desktop\list\lib\system_utils_win.cpp
+	<windows.h>
+
+1666901271 source:c:\users\danila\desktop\list\main.cpp
+	<stdio.h>
+	"List.h"
+
+1666637067 source:c:\users\danila\desktop\list\lib\debug_utils.cpp
+	"debug_utils.h"
+
+1666788576 c:\users\danila\desktop\list\lib\debug_utils.h
+	<stdint.h>
+	"logging.h"
+
+1665678258 c:\users\danila\desktop\list\lib\logging.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdarg.h>
+	"Console_utils.h"
+	"asserts.h"
+	"time_utils.h"
+	"debug_utils.h"
+
+1663617533 c:\users\danila\desktop\list\lib\time_utils.h
+
+1666790008 source:c:\users\danila\desktop\list\lib\logging.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<string.h>
+	<stdarg.h>
+	<windows.h>
+	<time.h>
+	"time_utils.h"
+	"Console_utils.h"
+	"debug_utils.h"
+
+1666901495 source:c:\users\danila\desktop\list\list.cpp
+	"List.h"
+	"lib/System_utils.h"
+
+1666898874 c:\users\danila\desktop\list\list.h
+	"lib/debug_utils.h"
+	"lib/logging.h"
+
+1666640546 c:\users\danila\desktop\list\lib\system_utils.h
+

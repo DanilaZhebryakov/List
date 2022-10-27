@@ -1,0 +1,729 @@
+------------------------------------
+[16:30:24 26.09]Program started
+bcdaList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:24][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:231 
+Func:varError_t listDtor(List*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P3400112E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+Program exited
+------------------------------------
+[16:30:38 26.09]Program started
+bcdaList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:38][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:38][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:38][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:38][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:38][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:38][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:39][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:39][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:39][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:39][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:231 
+Func:varError_t listDtor(List*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34006D5E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 NFEEEFEEE | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0-1414812757-1414812757-1414812757-1414812757    0    0    0    0
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+Program exited
+------------------------------------
+[16:30:49 26.09]Program started
+bcdaList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:315 
+Func:size_t listPushAfter(List*, size_t, int, varError_t*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+aList dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+[16:30:49][ERROR]List error at: 
+File:C:\Users\Danila\Desktop\List\List.cpp 
+Line:231 
+Func:varError_t listDtor(List*)
+List dump
+    List at 000000000023FDE0
+    Head: 1 Tail 0 Capacity 10
+    ERRORS:
+     Left data canary bad (DDEADBEEF P1400898E N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N65746E49 | FACEFEED)
+I |    0    1    2    3    4    5    6    7    8    9
+D |-559038737    0    0    0    0-190947233335579534    0-559038737-559038737
+P |-559038737    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+Program exited

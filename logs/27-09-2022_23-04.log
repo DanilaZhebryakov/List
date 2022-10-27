@@ -1,0 +1,23 @@
+------------------------------------
+[23:04:51 27.09]Program started
+List dump
+    List at 000000000023FDC0
+    Head: 1 Tail 1 Capacity 10 Size 1
+    Free mem ptr: Stack: 0 Unused end: 2    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0  404  404  404  404  404  404  404  404  404
+P |    0    0    0    0    0    0    0    0    0    0
+N |    0    0    0    0    0    0    0    0    0    0
+list elements in order:
+0 
+List dump
+    List at 000000000023FDC0
+    Head: 2 Tail 1 Capacity 10 Size 2
+    Free mem ptr: Stack: 0 Unused end: 3    List ok
+I |    1    2    3    4    5    6    7    8    9   10
+D |    0    1  404  404  404  404  404  404  404  404
+P |    2    0    0    0    0    0    0    0    0    0
+N |    0    1    0    0    0    0    0    0    0    0
+list elements in order:
+1 0 
+Program exited

@@ -1,0 +1,25 @@
+------------------------------------
+[16:12:23 26.09]Program started
+List dump
+    List at 000000000023FDE0
+    Head: 0 Tail 0 Capacity 0
+    ERRORS:
+     Left data canary bad (DDEADBEEF P140037AE N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N0 | FACEFEED)
+I |
+D |
+P |
+N |
+[16:12:23][ERROR]List error------------------------------------
+[16:12:32 26.09]Program started
+List dump
+    List at 000000000023FDE0
+    Head: 0 Tail 0 Capacity 0
+    ERRORS:
+     Left data canary bad (DDEADBEEF P34007667 N0 | DEADBEEF)
+     Right data canary bad (D0 P0 N0 | FACEFEED)
+I |
+D |
+P |
+N |
+[16:12:32][ERROR]List error

@@ -1,0 +1,13 @@
+------------------------------------
+[23:16:49 27.09]Program started
+List dump
+    List at 000000000023FDC0
+    Head: 13 Tail 1 Capacity 20 Size 13
+    Free mem ptr: Stack: 0 Unused end: 14    List ok
+I |    1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20
+D |    0    1    2    3    4    5    6    7    8    9   10   11   12  404  404  404  404  404  404  404
+P |    2    3    4    5    6    7    8    9   10   11   12   13    0    0    0    0    0    0    0    0
+N |    0    1    2    3    4    5    6    7    8    9   10   11   12    0    0    0    0    0    0    0
+list elements in order:
+12 11 10 9 8 7 6 5 4 3 2 1 0 
+Program exited
