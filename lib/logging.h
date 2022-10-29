@@ -11,8 +11,45 @@
     #include "time_utils.h"
     #include "debug_utils.h"
 
+    #ifndef LOG_BASE_NAME
+        #define LOG_BASE_NAME ""
+    #endif
+    #ifndef LOG_DIR_NAME
+        #define LOG_DIR_NAME "logs"
+    #endif
+    #ifndef LOG_FILE_EXT
+        #define LOG_FILE_EXT ".log"
+    #endif
+
+    #define LOG_USE_HTML
+
+    #ifndef LOG_HTML_HEADER
+        #define LOG_HTML_HEADER     \
+            "<head>\n"              \
+            "<title>%s</title>\n"   \
+            "<style>\n"             \
+            "body {\n"              \
+                "background: #111;\n"\
+                "color: #fff;\n"    \
+            "}\n"                   \
+            "</style>\n"            \
+            "</head>\n"             \
+            "<body>\n"              \
+            "<pre>\n"
+
+    #endif
+
+    #ifndef LOG_HTML_FOOTER
+        #define LOG_HTML_FOOTER \
+            "</pre>\n"          \
+            "</body>\n"
+    #endif
+
     extern FILE* _logfile;
 
+    extern unsigned int dump_file_counter;
+
+    extern const time_t program_run_time;
 
     void printf_log(const char* format, ...);
 
@@ -26,32 +63,42 @@
 
     void debug_log(const char* format, ...);
 
+    void embedNewDumpFile(char* filename_str, const char* filename_prefix, const char* filename_suffix, const char* html_type);
+
+    void setLogColor(consoleColor text_color, consoleColor background_color = (consoleColor)(COLOR_BLACK | COLOR_NOCHANGE));
+
+    void resetLogColor();
+
+    void hline_log();
+
+    void header_log(const char* str);
+
     #ifdef perror_log
         #error redefinition of internal macro Error_log perror_log
     #endif
     #define perror_log(errmsg)  do {    \
-        setConsoleColor(stderr, (consoleColor)(COLOR_RED | COLOR_INTENSE), COLOR_BLACK); \
+        setLogColor((consoleColor)(COLOR_RED | COLOR_INTENSE)); \
         fprint_time_nodate(_logfile, time(nullptr));                                     \
         fprintf(_logfile, "[ERROR] %s :%s\n at: \nFile:%s \nLine:%d \nFunc:%s\n",        \
                   errmsg, strerror(errno), __FILE__, __LINE__, __PRETTY_FUNCTION__);     \
         fprintf(stderr  , "[ERROR] %s :%s\n at: \nFile:%s \nLine:%d \nFunc:%s\n",        \
                   errmsg, strerror(errno), __FILE__, __LINE__, __PRETTY_FUNCTION__);     \
-        setConsoleColor(stderr, COLOR_DEFAULTT, COLOR_BLACK);\
+        resetLogColor();\
     } while(0)
 
     #ifdef Error_log
         #error redefinition of internal macro Error_log
     #endif
     #define Error_log(format, ...) {                                                     \
-        setConsoleColor(stderr, (consoleColor)(COLOR_RED | COLOR_INTENSE), COLOR_BLACK);   \
+        setLogColor((consoleColor)(COLOR_RED | COLOR_INTENSE));   \
         fprint_time_nodate(_logfile, time(nullptr));                                       \
-        fprintf(_logfile, "[ERROR]" format , __VA_ARGS__);                                 \
-        fprintf(stderr  , "[ERROR]" format , __VA_ARGS__);                                 \
+        fprintf(_logfile, "[ERROR] " format , __VA_ARGS__);                                 \
+        fprintf(stderr  , "[ERROR] " format , __VA_ARGS__);                                 \
         fprintf(_logfile, " at: \nFile:%s \nLine:%d \nFunc:%s\n",                          \
                    __FILE__, __LINE__, __PRETTY_FUNCTION__);       \
         fprintf(stderr  , " at: \nFile:%s \nLine:%d \nFunc:%s\n",                          \
                    __FILE__, __LINE__, __PRETTY_FUNCTION__);       \
-        setConsoleColor(stderr, COLOR_DEFAULTT, COLOR_BLACK);      \
+        resetLogColor();      \
     }
 
     #ifdef assert_log
@@ -60,7 +107,7 @@
     #ifndef NDEBUG
         #define assert_log(cond)                                  \
         if(!(cond)){                                                 \
-            setConsoleColor(stderr, COLOR_WHITE, COLOR_RED);           \
+            setLogColor( COLOR_WHITE, COLOR_RED);           \
             fprint_time_nodate(_logfile, time(nullptr));               \
             fprintf(_logfile, "[ASSERT]" #cond);                       \
             fprintf(stderr  , "[ASSERT]" #cond);                       \
@@ -68,7 +115,7 @@
                        __FILE__, __LINE__, __PRETTY_FUNCTION__);       \
             fprintf(stderr  , " at: \nFile:%s \nLine:%d \nFunc:%s\n",  \
                        __FILE__, __LINE__, __PRETTY_FUNCTION__);       \
-            setConsoleColor(stderr, COLOR_DEFAULTT, COLOR_BLACK);      \
+            resetLogColor();      \
             exit(EXIT_FAILURE);                                        \
         }
     #else

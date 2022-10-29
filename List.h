@@ -25,11 +25,10 @@ struct List{
     size_t*      next;
     size_t*      prev;
 
-    size_t head;
-    size_t tail;
-
     size_t fmem_stack;
     size_t fmem_end;
+
+    bool sorted = true;
     #ifndef LIST_NOCANARY
         canary_t rightcan;
     #endif
@@ -62,6 +61,8 @@ varError_t listDtor(List* lst);
 varError_t listResize(List* lst, size_t new_capacity);
 
 size_t listPushAfter(List* lst, size_t ind, LIST_ELEM_T elem, varError_t* err_ptr);
+
+varError_t listDeleteElem(List* lst, size_t ind);
 
 varError_t listSerialize(List* lst, size_t new_size);
 

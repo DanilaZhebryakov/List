@@ -79,7 +79,7 @@ void printVarInfo_log(const VarInfo *var){
         fprintf( stderr , "     Variable info: info is nullptr\n");
     }
 
-    setConsoleColor(stderr, COLOR_DEFAULTT, COLOR_BLACK);
+    resetLogColor();
 
 }
 

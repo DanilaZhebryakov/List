@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1664301488 source:c:\users\danila\desktop\list\lib\console_utils_win.cpp
+1667040383 source:c:\users\danila\desktop\list\lib\console_utils_win.cpp
 	<stdio.h>
 	<locale.h>
 	<assert.h>
@@ -8,7 +8,7 @@
 	<windows.h>
 	"Console_utils.h"
 
-1665256335 c:\users\danila\desktop\list\lib\console_utils.h
+1667040669 c:\users\danila\desktop\list\lib\console_utils.h
 
 1665162955 source:c:\users\danila\desktop\list\lib\file_read.cpp
 	<stdio.h>
@@ -50,18 +50,18 @@
 1666640551 source:c:\users\danila\desktop\list\lib\system_utils_win.cpp
 	<windows.h>
 
-1666901271 source:c:\users\danila\desktop\list\main.cpp
+1667042083 source:c:\users\danila\desktop\list\main.cpp
 	<stdio.h>
 	"List.h"
 
-1666637067 source:c:\users\danila\desktop\list\lib\debug_utils.cpp
+1667040181 source:c:\users\danila\desktop\list\lib\debug_utils.cpp
 	"debug_utils.h"
 
 1666788576 c:\users\danila\desktop\list\lib\debug_utils.h
 	<stdint.h>
 	"logging.h"
 
-1665678258 c:\users\danila\desktop\list\lib\logging.h
+1667041946 c:\users\danila\desktop\list\lib\logging.h
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
@@ -74,7 +74,7 @@
 
 1663617533 c:\users\danila\desktop\list\lib\time_utils.h
 
-1666790008 source:c:\users\danila\desktop\list\lib\logging.cpp
+1667042195 source:c:\users\danila\desktop\list\lib\logging.cpp
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
@@ -86,14 +86,17 @@
 	"time_utils.h"
 	"Console_utils.h"
 	"debug_utils.h"
+	"logging.h"
 
-1666901495 source:c:\users\danila\desktop\list\list.cpp
+1667042776 source:c:\users\danila\desktop\list\list.cpp
 	"List.h"
 	"lib/System_utils.h"
 
-1666898874 c:\users\danila\desktop\list\list.h
+1666982474 c:\users\danila\desktop\list\list.h
 	"lib/debug_utils.h"
 	"lib/logging.h"
 
 1666640546 c:\users\danila\desktop\list\lib\system_utils.h
+
+1667035167 source:c:\users\danila\desktop\list\graphviz_utils.cpp
 

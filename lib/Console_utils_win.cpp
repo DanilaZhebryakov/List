@@ -7,6 +7,16 @@
 
 #include "Console_utils.h"
 
+unsigned int consoleColorAsHex(consoleColor col){
+    unsigned int res = 0;
+    int col_val = (col & COLOR_INTENSE) ? 0xFF : 0x7f;
+
+    res |= (col & COLOR_RED  ) ? (col_val << 16)  : 0;
+    res |= (col & COLOR_GREEN) ? (col_val << 8 )  : 0;
+    res |= (col & COLOR_BLUE ) ? (col_val << 0 )  : 0;
+    return res;
+}
+
 bool setConsoleColor(FILE* console, consoleColor text_color, consoleColor background_color){
     WORD textAttribute = 0;
     textAttribute |= (text_color       & COLOR_RED     ) ? FOREGROUND_RED       : 0;
